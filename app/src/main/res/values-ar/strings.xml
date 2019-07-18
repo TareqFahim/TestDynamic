@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق اختباري</string>
+    <string name="hello">أهلا و سهلا!</string>
+    <string name="click_btn">Change to English</string>
+</resources>
