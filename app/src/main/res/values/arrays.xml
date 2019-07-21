@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="diseases">
+        <item>H1N1</item>
+        <item>SARI</item>
+        <item>ILI</item>
+    </string-array>
+</resources>

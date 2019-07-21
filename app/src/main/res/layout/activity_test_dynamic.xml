@@ -7,5 +7,11 @@
     android:orientation="vertical"
     tools:context=".TestDynamic"
     android:id="@+id/test_dynamic_linearLayout">
+    <Button
+        android:id="@+id/multi_choice_btn"
+        android:text="Multi Choice"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
